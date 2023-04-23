@@ -1,5 +1,8 @@
 # Java-MINI-CRUD-mySQL
 
+![ScreenShot](https://github.com/DomingoFleitas/Java-Mini-CRUD-mySQL/blob/master/src/main/java/ScreenShot/miniCRUD001.png)
+![ScreenShot](https://github.com/DomingoFleitas/Java-Mini-CRUD-mySQL/blob/master/src/main/java/ScreenShot/miniCRUD002.png)
+
 Mini CRUD in Java and mySQL to learn the functioning of the Java connector.
 In the code you have the dbStudents.db database, you just have to import it into mysql.
 The objective of this exercise is to learn how to work a CRUD with Java and mySQL, 
