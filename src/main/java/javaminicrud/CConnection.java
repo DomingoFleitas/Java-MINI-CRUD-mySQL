@@ -4,6 +4,7 @@ package javaminicrud;
 */
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
 public class CConnection {
@@ -26,7 +27,7 @@ public class CConnection {
             conn = DriverManager.getConnection(chain, user, password);
             //JOptionPane.showMessageDialog(null, "Successful Connection");
 
-        } catch (Exception e) {
+        } catch (ClassNotFoundException | SQLException e) {
 
             JOptionPane.showMessageDialog(null, "Connection ERROR " + e.toString());
         }
