@@ -1,6 +1,6 @@
 # Java-MINI-CRUD-mySQL
 
-![GitHub watchers](https://img.shields.io/github/watchers/dfleper/Java-Mini-CRUD-mySQL?color=blue&label=Vistas&logoColor=blue&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/Java-Mini-CRUD-mySQL?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/Java-Mini-CRUD-mySQL?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
 
 ![ScreenShot](https://github.com/DomingoFleitas/Java-Mini-CRUD-mySQL/blob/master/src/main/java/ScreenShot/miniCRUD001.png)
